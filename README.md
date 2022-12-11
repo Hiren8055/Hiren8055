@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hiren8055
+- 👋 Hi, I’m Hirenkumar vyas
 - 👀 I’m interested in AI, Robotics and Self driving vehicles.
 - 🌱 I’m currently learning on Motion planning of Robotics, Self driving vehicle dynamics and ROS.
 - 💞️ I’m looking to collaborate on Robotics and AI projects.
